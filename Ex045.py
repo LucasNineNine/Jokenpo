@@ -6,7 +6,7 @@ import time
 #ESCOLHA DO PC
 pc = random.randint(1, 3)
 
-#Introdução
+#Introdução do jogo
 print('====== DHG Entertainment Studios ======')
 print('\n=============== JOKENPÔ ===============')
 print('\nEscolha uma OPÇÃO entre: '
