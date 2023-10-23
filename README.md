@@ -12,7 +12,7 @@ Todas as escolhas feitas pelo PC são aleatórias, o código sorteia 3 números 
 ![nomeImagem](firstGame.png)
 
 #Segundo jogo realizado
-![nomeImagem](secondGame.png)
+![nomeImagem](/imagens/secondGame.png)
 
 #Terceiro jogo realizado
-![nomeImagem](thirdGame.png)
+![nomeImagem](/imagens/thirdGame.png)
