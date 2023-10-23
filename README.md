@@ -10,10 +10,13 @@ Todas as escolhas feitas pelo PC são aleatórias, o código sorteia 3 números 
 ![nomeImagem](/imagens/homeScreen.png)
 
 #Primeiro jogo realizado
+
 ![nomeImagem](firstGame.png)
 
 #Segundo jogo realizado
+
 ![nomeImagem](/imagens/secondGame.png)
 
 #Terceiro jogo realizado
+
 ![nomeImagem](/imagens/thirdGame.png)
